@@ -7,6 +7,11 @@
 h1 {
   color: darkslategray;
 }
+#remgo {
+  background-color: darkslategray;
+  font-size: 20px;
+  padding: 5px 10px;
+}
 h2 {
   color: rgba(0,0,0,0.5);
 }
