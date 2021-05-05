@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'monospace';
+  src: url('../fonts/Glegoo-Regular.woff2') format('woff2'),
+       url('../fonts/Glegoo-Regular.woff') format('woff'),
+       url('../fonts/Glegoo-Regular.ttf') format('truetype')
+}
+h1 {
+  color: darkslategray;
+}
+h2 {
+  color: rgba(0,0,0,0.5);
+}
+h3 {
+  color: blue;
+  padding: 10px;
+  margin: 0px 10px;
+}
+
+table {
+  color: black;
+  font-family: san-serif;
+  background-color: pink;
+}
+.list {
+  padding: 0 10px;
+  margin: 5px 10px;
+}
+.list h2 {
+ color: black; 
+}
+#font{
+  
+  padding: 5px 10px;
+  margin: 10px 10px;
+}
+.font {
+  background-color: Ivory;
+  padding: 5px;
+}
+#serif {
+  font-family: serif;
+  font-weight: 300;
+}
+#bree {
+  font-family: 'Bree+Serif';
+  font-size: 25px;
+}
+#mono{
+  font-family: monospace;
+  height: 25px;
+  font-size: 30px;
+  text-align: center;
+}
+footer{
+  background-color: DarkSeaGreen;
+}
