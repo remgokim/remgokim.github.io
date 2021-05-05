@@ -12,6 +12,11 @@ h1 {
   font-size: 20px;
   padding: 5px 10px;
 }
+#san {
+  color: red;
+  font-size: 20px;
+  font-family: monospace;
+}
 figure {
   padding: 10px 10px;
 }
