@@ -24,9 +24,11 @@ h1 {
   font-family: monospace;
 }
 
+
 figcaption {
   color: red;
   font-weight: 200;
+  width: 300px;
 }
 
 h2 {
