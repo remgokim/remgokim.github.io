@@ -29,14 +29,12 @@ header {
   text-align: center;
   padding: 10px;
 }
-body{
- top: 100px;
-}
+
 .introduce {
   width: 500px;
   height: 500px;
   margin: 20px;
-  top: 200px;
+  top: 500px;
 }
 #portrait{
   width: 400px;
