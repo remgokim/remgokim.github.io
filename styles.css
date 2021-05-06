@@ -24,6 +24,14 @@ h1 {
   font-family: monospace;
 }
 
+.list {
+    border: 1px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
 
 figcaption {
   color: red;
