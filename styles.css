@@ -32,13 +32,11 @@ figcaption {
 #port {
   padding: 0 auto;
 }
-#introduce{
-  padding: 50px 0px 50px;
-}
 #vary{
   border: 1px dotted blue;
   border-radius: 15px;
   width: 400px;
+  padding: 50px 0px 50px;
 }
 h1 {
   color: darkslategray;
