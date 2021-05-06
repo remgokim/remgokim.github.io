@@ -34,8 +34,10 @@ li {
 }
 .introduce {
   display: inline-block;
-  width: 300px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
+  border: 1px solid #466995;
+  margin: 20px;
 }
 #portrait{
   width: 400px;
