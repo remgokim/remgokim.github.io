@@ -37,7 +37,13 @@ h1 {
   text-align: center;
   width: 100px;
 }
-
+button{
+  width: 100px; 
+  height:30px; 
+  background-color: yellow; 
+  color: black;
+  font-size: 20px;
+}
 
 figcaption {
   color: red;
