@@ -45,10 +45,6 @@ table {
   background-color: pink;
 }
 
-#portrait {
-  height: 100px;
-  width: 70px;
-}
 
 .list {
   padding: 0 10px;
@@ -75,7 +71,7 @@ table {
   color: white;
   background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: 300px 100px;
-  background-position: center center;
+  background-position: center;
 }
 
 #bree {
