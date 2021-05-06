@@ -5,7 +5,7 @@
        url('../fonts/Glegoo-Regular.ttf') format('truetype')
 }
 header {
-  background-color: darkslategray;
+  background-color: #004E89;
   color: white;
   font-size: 20px;
   border-bottom: 1px solid #466995;
