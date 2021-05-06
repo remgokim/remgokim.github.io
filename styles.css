@@ -9,8 +9,6 @@ header {
   color: white;
   font-size: 20px;
   text-align: center;
-  position: fixed;
-  top: 0px;
 }
 #remgo ul {
   margin: 0px auto;
@@ -143,5 +141,7 @@ footer{
   text-align: center;
   font-family: monospace;
   width: 100%;
+  position: fixed;
+  bottom: 0;
 }
 
