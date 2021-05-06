@@ -16,6 +16,8 @@
 }
 .introduce {
   display: inline-block;
+  width: 500px;
+  height: 500px;
 }
 #portrait{
   width: 400px;
