@@ -12,6 +12,8 @@ header {
   position: fixed;
   top: 0px;
   left: 300px;
+  width: 500px;
+  height: 200px;
 }
 #remgo ul {
   margin: 0px auto;
