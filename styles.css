@@ -31,7 +31,9 @@ header {
   text-align: center;
   padding: 10px;
 }
-
+main{
+  top: 300px;
+}
 .introduce {
   width: 500px;
   height: 500px;
