@@ -110,7 +110,10 @@ footer{
   padding: 30px 30px;
   margin: 20px 20px;
 }
-
+#portrait{
+  width:300px;
+  height: 500px;
+}
 #portrait:hover {
   background-color: #004E89;
   border-color: #004E89;
