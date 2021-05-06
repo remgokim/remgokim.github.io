@@ -36,7 +36,7 @@ body{
   width: 500px;
   height: 500px;
   margin: 20px;
-  display: inline-block;
+  top: 200px;
 }
 #portrait{
   width: 400px;
