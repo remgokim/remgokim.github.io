@@ -29,15 +29,8 @@ figcaption {
 #port {
   padding: 0 auto;
 }
-#san {
-  color: white;
-  font-size: 10px;
-  font-family: monospace;
-   width: 500px;
-  height: 100px;
-}
 #introduce{
-  padding: 50px;
+  padding: 50px 0px 50px;
 }
 #vary{
   border: 1px dotted blue;
@@ -47,8 +40,6 @@ figcaption {
 h1 {
   color: darkslategray;
 }
-
-
 
 .list {
   border: 1px solid LightGrey;
