@@ -4,6 +4,9 @@
        url('../fonts/Glegoo-Regular.woff') format('woff'),
        url('../fonts/Glegoo-Regular.ttf') format('truetype')
 }
+#vary{
+  border: 1px dotted blue;
+}
 h1 {
   color: darkslategray;
 }
