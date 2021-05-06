@@ -5,7 +5,7 @@
        url('../fonts/Glegoo-Regular.ttf') format('truetype')
 }
 header {
-  background-color: #004E89;
+  background-color: DarkSeaGreen;
   color: white;
   font-size: 20px;
   text-align: center;
@@ -13,6 +13,7 @@ header {
 #remgo ul {
   margin: 0px auto;
   text-align: center;
+  background-color: #004E89;
 }
 #remgo li {
   color: #FFF;
