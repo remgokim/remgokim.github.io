@@ -18,6 +18,15 @@ header {
   width: 100%;
   z-index: 10;
 }
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;
+}
 .main {
   position: relative;
   padding: 5px;
