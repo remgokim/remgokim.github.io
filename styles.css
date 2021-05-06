@@ -7,6 +7,7 @@
 #vary{
   border: 1px dotted blue;
   border-radius: 15px;
+  width: 500px;
 }
 h1 {
   color: darkslategray;
