@@ -140,7 +140,8 @@ footer{
   background-color: DarkSeaGreen;
   text-align: center;
   font-family: monospace;
-  width: 100%;
+  width: 100px;
+  height: 100px;
   position: fixed;
   bottom: 0;
 }
