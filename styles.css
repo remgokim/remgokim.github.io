@@ -31,6 +31,7 @@ header {
   width: 500px;
   height: 500px;
   margin: 20px;
+  display: inline-block;
 }
 #portrait{
   width: 400px;
