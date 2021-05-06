@@ -20,6 +20,8 @@ h1 {
 }
 figure {
   padding: 10px 10px;
+  height: 300px;
+  width: 200px;
 }
 figcaption {
   color: red;
