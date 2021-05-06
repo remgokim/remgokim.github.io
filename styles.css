@@ -24,8 +24,6 @@ h1 {
 }
 figure {
   padding: 10px 10px;
-  height: 50px;
-  width: 30px;
 }
 figcaption {
   color: red;
@@ -45,6 +43,10 @@ table {
   font-family: san-serif;
   background-color: pink;
 }
+img {
+  height: 100px;
+  width: 70px;
+}
 .list {
   padding: 0 10px;
   margin: 5px 10px;
@@ -53,7 +55,6 @@ table {
  color: black; 
 }
 #font{
-  
   padding: 5px 10px;
   margin: 10px 10px;
 }
