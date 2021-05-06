@@ -4,6 +4,12 @@
        url('../fonts/Glegoo-Regular.woff') format('woff'),
        url('../fonts/Glegoo-Regular.ttf') format('truetype')
 }
+
+.main {
+  position: relative;
+  padding: 5px;
+}
+
 #vary{
   border: 1px dotted blue;
   border-radius: 15px;
