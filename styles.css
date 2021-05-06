@@ -25,6 +25,8 @@ header {
   text-transform: uppercase;
   display: inline-block;
   width: 80px;
+  text-align: center;
+  padding: 10px;
 }
 .main {
   position: relative;
