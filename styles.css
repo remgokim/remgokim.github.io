@@ -9,16 +9,13 @@
   color: white;
   font-size: 50px;
   padding: 5px 10px;
-  position: fixed;
-  top: 0px;
-  left: 0px;
 }
 .main {
   position: relative;
   padding: 5px;
 }
 #portrait{
-  width: 500px;
+  width: 400px;
   height: 400px;
 }
 figcaption {
@@ -30,7 +27,7 @@ figcaption {
   border-color: #004E89;
 }
 #port {
-  padding: 0 auto;
+  position: center;
 }
 #vary{
   border: 1px dotted blue;
