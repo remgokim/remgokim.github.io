@@ -4,14 +4,10 @@
        url('../fonts/Glegoo-Regular.woff') format('woff'),
        url('../fonts/Glegoo-Regular.ttf') format('truetype')
 }
-#remgo {
+header {
   background-color: darkslategray;
   color: white;
   font-size: 50px;
-  position: fixed;
-  width: 100%;
-}
-header {
   background-color: #466995;
   border-bottom: 1px solid #466995;
   position: fixed;
