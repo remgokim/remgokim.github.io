@@ -15,8 +15,8 @@
   padding: 5px;
 }
 #portrait{
-  width: 250px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
 }
 figcaption {
   color: white;
@@ -35,9 +35,6 @@ figcaption {
   font-family: monospace;
    width: 500px;
   height: 100px;
-}
-#san:hover{
-  background-color: #004E89;
 }
 #introduce{
   padding: 50px;
