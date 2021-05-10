@@ -43,6 +43,7 @@ main{
   height: 500px;
   top: 500px;
   border: 1px dotted green;
+  clear: left;
 }
 #portrait{
   width: 400px;
