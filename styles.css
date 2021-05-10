@@ -46,6 +46,13 @@ header {
   border: 1px dotted green;
   clear: left;
 }
+.container {
+  margin: 0 auto;
+  max-width: 1160px;
+  padding: 0 15px;
+  background-color: #757A81;
+}
+
 figure{
   width: 400px;
   height: 400px;
