@@ -26,11 +26,11 @@ header {
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
-  display: inline-block;
   width: 80px;
   text-align: center;
   padding: 10px;
   border: 1px dotted white;
+  display: inline-block;
 }
 main{
   margin: 100px;
@@ -38,7 +38,6 @@ main{
   top: 100px;
 }
 .introduce {
-  display: inline-block;
   width: 500px;
   height: 500px;
   border: 1px dotted green;
