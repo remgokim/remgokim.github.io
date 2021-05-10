@@ -30,6 +30,7 @@ header {
   width: 80px;
   text-align: center;
   padding: 10px;
+  border: 1px dotted white;
 }
 main{
   top: 500px;
