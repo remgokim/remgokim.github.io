@@ -33,6 +33,7 @@ header {
   border: 1px dotted white;
 }
 main{
+  margin: 200px;
   top: 500px;
   position: relative;
 }
@@ -40,7 +41,6 @@ main{
   display: inline-block;
   width: 500px;
   height: 500px;
-  margin: 200px;
   top: 500px;
 }
 #portrait{
