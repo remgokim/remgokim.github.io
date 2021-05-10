@@ -32,10 +32,13 @@ header {
   border: 1px dotted white;
   display: inline-block;
 }
-main{
+
+.main{
   margin: 100px;
   position: relative;
   top: 100px;
+  clear: both;
+  display: table;
 }
 .introduce {
   width: 500px;
