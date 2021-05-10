@@ -22,7 +22,7 @@ header {
 }
 #remgo li {
   color: #FFF;
-  font-family: sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
@@ -64,6 +64,7 @@ figcaption {
 h1 {
   color: darkslategray;
   text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 .list {
