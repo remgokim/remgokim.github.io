@@ -11,9 +11,8 @@ header {
   text-align: center;
   position: fixed;
   top: 0px;
-  left: 300px;
-  width: 500px;
-  height: 150px;
+  left: 0px;
+  width: 100%;
 }
 #remgo ul {
   margin: 0px auto;
@@ -32,7 +31,7 @@ header {
   padding: 10px;
 }
 main{
-  top: 300px;
+  top: 500px;
 }
 .introduce {
   width: 500px;
