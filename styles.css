@@ -148,7 +148,9 @@ table {
   font-size: 30px;
   text-align: center;
 }
-
+.photo-contact-form {
+  padding: 10px 10px;
+}
 footer{
   background-color: DarkSeaGreen;
   text-align: center;
