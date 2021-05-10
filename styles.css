@@ -34,8 +34,9 @@ header {
   border: 1px dotted white;
 }
 main{
-  margin: 500px;
+  margin: 100px;
   position: relative;
+  top: 500px;
 }
 .introduce {
   display: inline-block;
