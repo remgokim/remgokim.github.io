@@ -32,6 +32,7 @@ header {
 }
 main{
   top: 500px;
+  position: relative;
 }
 .introduce {
   width: 500px;
