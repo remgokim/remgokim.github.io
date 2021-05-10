@@ -150,6 +150,7 @@ table {
 }
 .photo-contact-form {
   padding: 10px 10px;
+  display: absolute;
 }
 footer{
   background-color: DarkSeaGreen;
