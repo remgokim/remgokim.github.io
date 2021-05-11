@@ -81,7 +81,7 @@ figure:hover {
   width: 400px;
   padding: 50px 0px 50px;
 }
-#logo {
+a #logo {
   color: darkslategray;
   text-align: center;
   font-family: 'Oswald', sans-serif;
