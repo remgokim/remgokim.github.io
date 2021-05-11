@@ -37,7 +37,9 @@ header {
 #remgo li:hover {
   opacity: 70%
 }
-
+#remgo li:active {
+  color: #FFF;
+}
 .main{
   margin: 0 auto;
   position: relative;
