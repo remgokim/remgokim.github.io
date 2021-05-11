@@ -146,6 +146,10 @@ table {
  color: black; 
 }
 
+#learn {
+  margin: 10px;
+  padding: 10px;
+}
 
 .photo-contact-form {
   padding: 10px 10px;
