@@ -27,7 +27,8 @@ header {
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
-  width: 80px;
+  width: 100px;
+  height: 70px;
   text-align: center;
   padding: 10px;
   border: 1px dotted white;
