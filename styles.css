@@ -50,6 +50,7 @@ header {
   height: 500px;
   border: 1px dotted green;
   clear: left;
+  display: inline-block;
 }
 .container {
   margin: 0 auto;
