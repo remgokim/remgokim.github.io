@@ -31,6 +31,7 @@ header {
   text-align: center;
   padding: 10px;
   border: 1px dotted white;
+  display: inline-block;
 }
 
 #remgo li:hover {
@@ -52,7 +53,6 @@ header {
   height: 500px;
   border: 1px dotted green;
   clear: left;
-  display: inline-block;
   margin: 10px 0;
 }
 .container {
