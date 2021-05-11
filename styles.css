@@ -33,6 +33,10 @@ header {
   display: inline-block;
 }
 
+#remgo li:hover {
+  opacity: 70%
+}
+
 .main{
   margin: 0 auto;
   position: relative;
