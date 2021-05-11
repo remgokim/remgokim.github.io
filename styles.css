@@ -43,6 +43,7 @@ header {
   top: 100px;
   clear: both;
   display: table;
+  text-decoration: none;
 }
 .introduce {
   width: 500px;
