@@ -1,1 +1,32 @@
 
+#font{
+  padding: 5px 10px;
+  margin: 10px 10px;
+}
+
+.font {
+  background-color: Ivory;
+  padding: 5px;
+}
+
+#serif {
+  font-family: serif;
+  font-weight: 300;
+  text-align: center;
+  color: white;
+  background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+  background-size: 300px 100px;
+  background-position: center;
+}
+
+#bree {
+  font-family: 'Bree+Serif';
+  font-size: 25px;
+}
+
+#mono{
+  font-family: monospace;
+  height: 25px;
+  font-size: 30px;
+  text-align: center;
+}
