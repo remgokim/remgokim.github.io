@@ -32,10 +32,11 @@ header {
   text-align: center;
   padding: 10px;
   border: 1px dotted white;
-  display: inline-block;
+  display: inline;
+  text-decoration: none;
 }
 #remgo li:link {
-  text-decoration: none;
+ 
   color: #FFF;
 }
 #remgo li:hover {
