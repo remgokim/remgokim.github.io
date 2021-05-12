@@ -86,10 +86,11 @@ figure:hover {
   width: 400px;
   padding: 50px 0px 50px;
 }
-a #logo {
+#logo {
   color: darkslategray;
   text-align: center;
   font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
 
 h1 {
