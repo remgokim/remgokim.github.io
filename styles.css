@@ -21,7 +21,7 @@ header {
   text-align: center;
   background-color: #004E89;
 }
-#remgo li {
+#remgo a {
   color: #FFF;
   font-family: 'Glegoo-Regular', sans-serif;
   font-size: 16px;
@@ -30,19 +30,22 @@ header {
   width: 100px;
   height: 70px;
   text-align: center;
-  padding: 10px;
+  margin-right: 15px;
+  padding: 0 5px;
   border: 1px dotted white;
   display: inline;
   text-decoration: none;
+  position: relative;
 }
-#remgo li:link {
+
+#remgo a:link {
  
   color: #FFF;
 }
-#remgo li:hover {
+#remgo a:hover {
   opacity: 70%
 }
-#remgo li:active {
+#remgo a:active {
   color: #FFF;
 }
 .main{
