@@ -171,5 +171,6 @@ footer{
   height: 150px;
   bottom: 0;
   left: 200px;
+  position: fixed;
 }
 
