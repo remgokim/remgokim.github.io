@@ -32,7 +32,6 @@ header {
   text-align: center;
   margin-right: 15px;
   padding: 0 5px;
-  border: 1px dotted white;
   display: inline;
   text-decoration: none;
   position: relative;
@@ -67,7 +66,6 @@ header {
 .introduce {
   width: 500px;
   height: 500px;
-  border: 1px dotted green;
   clear: left;
   margin: 10px 0;
 }
